@@ -1,0 +1,6 @@
+D:\TWChatLog_Nu\TWChatLog_Nu\bin\Debug\TWChatLog_Nu.exe
+D:\TWChatLog_Nu\TWChatLog_Nu\bin\Debug\TWChatLog_Nu.pdb
+D:\TWChatLog_Nu\TWChatLog_Nu\obj\Debug\TWChatLog_Nu.csproj.AssemblyReference.cache
+D:\TWChatLog_Nu\TWChatLog_Nu\obj\Debug\TWChatLog_Nu.csproj.CoreCompileInputs.cache
+D:\TWChatLog_Nu\TWChatLog_Nu\obj\Debug\TWChatLog_Nu.exe
+D:\TWChatLog_Nu\TWChatLog_Nu\obj\Debug\TWChatLog_Nu.pdb
